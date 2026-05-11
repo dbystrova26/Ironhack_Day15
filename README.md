@@ -2,8 +2,7 @@
 
 ## How to Run
 
-1. Open a terminal in this folder:
-   `C:\Users\dbyst\OneDrive\Desktop\Ironhack_labs\Ironhack_Day15\Ironhack_Day15`
+1. Open a terminal in this folder.
 2. Make sure `.env` contains `OPENAI_API_KEY`.
 3. Install dependencies:
    ```bash
